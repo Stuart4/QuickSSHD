@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickSSHD</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">This is a test SSHD app using Mina from Apache!</string>
+    <string name="button_text">Click Me!</string>
+
+</resources>
